@@ -13,7 +13,7 @@ Your hero is fasting. As such, he must dodge all the different foods. You win wh
   ```bash
   git clone https://github.com/your-username/your-repo.git
   ```
-- Open the project in Processing: launch Processing, navigate to the File menu, and open the project directory using the 'Open' option
+- Open the project in Processing: launch Processing, navigate to the File menu, and open the FastToTheEnd.pyde file using the 'Open' option
 - Run the sketch by clicking the 'Run' button (triangle in the top-left corner) in Processing
 
 ### License
